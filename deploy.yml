@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ip-container
-        image: 10.7.7.4:5000/sbimage:24
+        image: 10.7.7.4:5000/sbimage:25
         ports:
         - containerPort: 8085
 ---
